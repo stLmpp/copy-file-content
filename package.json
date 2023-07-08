@@ -27,6 +27,12 @@
   ],
   "author": "stLmpp",
   "license": "MIT",
+  "files": [
+    "bin",
+    "index.js",
+    "post-install.js",
+    "types"
+  ],
   "dependencies": {
     "arg": "~5.0.2",
     "copy-paste": "~1.5.3"
