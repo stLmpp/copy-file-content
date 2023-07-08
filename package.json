@@ -1,5 +1,5 @@
 {
-  "name": "copy-file-to-clipboard",
+  "name": "copy-file-content",
   "version": "1.0.0",
   "description": "Copy file content to clipboard",
   "main": "index.js",
