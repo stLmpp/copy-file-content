@@ -25,6 +25,10 @@
     "copy file content",
     "clipboard"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stLmpp/copy-file-content"
+  },
   "author": "stLmpp",
   "license": "MIT",
   "files": [
